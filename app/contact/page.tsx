@@ -76,7 +76,7 @@ export default function ContactForm() {
   };
 
   return (
-    <section className="min-h-screen bg-white text-black pt-28 md:pt-40 pb-16 md:pb-20 px-4 sm:px-6">
+    <section className="min-h-screen bg-white text-black pt-34 md:pt-40 pb-16 md:pb-20 px-4 sm:px-6">
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
         {/* Left Side */}
         <div>
