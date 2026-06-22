@@ -1,8 +1,12 @@
-import Navbar from "./_components/Navbar";
 export default function Home() {
   return (
-    <div className="">
-     <Navbar/>
+    <div className="min-h-screen flex items-center justify-center bg-white text-black">
+      <div className="text-center">
+        <h1 className="text-5xl font-bold mb-4">Contact Us</h1>
+        <p className="text-lg text-gray-600">
+          Welcome to the Contact Page 🚀
+        </p>
+      </div>
     </div>
   );
 }
